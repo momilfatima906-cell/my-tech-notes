@@ -1,4 +1,13 @@
 Python Programming – Chapter 1
+
+
+
+<img width="516" height="387" alt="images" src="https://github.com/user-attachments/assets/0c9e79ff-fb8b-4885-a399-a95a28ed2824" />
+
+
+
+
+
 Introduction to Python
 Lesson 01
  Beginner Level
@@ -38,6 +47,8 @@ Roman Urdu Explanation:
 Python ko Guido van Rossum naam ke programmer ne banaya tha. Unhon ne 1989 mein is par kaam shuru kiya aur 1991 mein Python pehli baar release hui.
 
 
+<img width="762" height="402" alt="images" src="https://github.com/user-attachments/assets/e42089d3-02cf-45c1-9645-d0e332801ef9" />
+
 
 
 
@@ -56,12 +67,28 @@ Python has many useful features that make it easy to learn and use. Some importa
 4. Portable: Python programs can run on different operating systems.
 5. Open Source: Python is freely available to use and modify.
 Roman Urdu Explanation:
+
+<img width="567" height="541" alt="images (1)" src="https://github.com/user-attachments/assets/044b6c91-c904-437b-822e-653b0f81327a" />
+
+
+
+
+
+
 - Easy to Learn: Python ki language simple hoti hai, is liye beginners asaani se seekh sakte hain.
 - Interpreted: Python interpreter code ko execute karta hai.
 - High-Level: Humein computer ki complicated internal instructions khud likhne ki zaroorat nahi hoti.
 - Portable: Python Windows, Linux aur macOS par chal sakti hai.
 - Open Source: Python free hai aur developers is mein improvements bhi kar sakte hain.
 4. Uses of Python
+
+
+
+
+
+
+
+  
 Theory (English):
 
 Python is used in different fields of technology, including:
